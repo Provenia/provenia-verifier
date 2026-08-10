@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "keys": [
+    {
+      "key_id": "provenia-prod-2026-01",
+      "algorithm": "Ed25519",
+      "public_key_fingerprint": "0b66685ad827eec46a3d227835c9af542409fa80a63dc88ed07ece4f99591604",
+      "status": "ACTIVE",
+      "activated_at_utc": "2026-08-02T14:45:06.634Z",
+      "retired_at_utc": null,
+      "revoked_at_utc": null,
+      "revocation_reason": null,
+      "public_key_file": "public-keys/provenia-prod-2026-01.pem",
+      "external_public_key_url": null
+    }
+  ]
+}
