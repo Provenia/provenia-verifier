@@ -11,7 +11,7 @@
       "revoked_at_utc": null,
       "revocation_reason": null,
       "public_key_file": "public-keys/provenia-prod-2026-01.pem",
-      "external_public_key_url": null
+      "external_public_key_url": "https://doi.org/10.5281/zenodo.21877417"
     }
   ]
 }

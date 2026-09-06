@@ -17,4 +17,4 @@
 
 ZIP is only a distribution container for verification artifacts; it is not itself an attestation. The verifier must compare original Record files locally with the `file_hash` values in `Dossier.json`. Those original files are never uploaded.
 
-GitHub release and Zenodo DOI references are pending and must not be treated as trust anchors in this initial package.
+The published `v1.0.0` reference package is archived at `https://doi.org/10.5281/zenodo.21877417`. The GitHub release and Zenodo archive are publication references, not cryptographic trust anchors.
