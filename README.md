@@ -9,3 +9,11 @@ Start with [VERIFICATION_METHOD.md](VERIFICATION_METHOD.md) for the operational 
 The ZIP file is only a distribution container for the official verification artifacts, `Dossier.json` and `Dossier.pdf`; ZIP packaging itself is not a cryptographic proof.
 
 The trusted key is [public-keys/provenia-prod-2026-01.pem](public-keys/provenia-prod-2026-01.pem), with history in [key-history.json](key-history.json).
+
+## License
+
+The documentation, verification specification, verification method, public-key registry metadata, and other non-software materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0), unless otherwise noted.
+
+This license does not grant rights to Provenia trademarks, brand identity, logos, or other branding elements.
+
+No executable software is currently distributed in this repository. If executable software is added in the future, it will be licensed separately under an appropriate software license.
